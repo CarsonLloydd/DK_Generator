@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dk_jar</output-path>
+    <root id="archive" name="dk.jar">
+      <element id="module-output" name="dk" />
+    </root>
+  </artifact>
+</component>
